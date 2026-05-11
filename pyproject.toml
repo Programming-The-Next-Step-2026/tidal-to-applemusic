@@ -3,7 +3,7 @@ requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
-packages = ["tidal_to_applemusic_KNatzev"]
+packages = ["src/tidal_to_applemusic_KNatzev"]
 
 [project]
 name = "tidal_to_applemusic_KNatzev"
